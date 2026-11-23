@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "MeuTreino",
+    "slug": "MeuTreino",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "predictiveBackGestureEnabled": false
+    },
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
